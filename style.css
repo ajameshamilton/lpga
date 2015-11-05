@@ -1,0 +1,18 @@
+
+
+#mapImage, #imageMap {
+	max-width:100%;
+
+}
+
+.centertext {
+	text-align:center;
+}
+
+#title, #selectdiv, #map, #listdiv {
+	margin-bottom:30px;
+}
+
+select {
+	width:150px;
+}
